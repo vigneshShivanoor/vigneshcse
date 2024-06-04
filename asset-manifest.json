@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vigneshcse/static/css/main.219a4861.css",
+    "main.js": "/vigneshcse/static/js/main.257c5323.js",
+    "static/js/453.56b1caae.chunk.js": "/vigneshcse/static/js/453.56b1caae.chunk.js",
+    "index.html": "/vigneshcse/index.html",
+    "main.219a4861.css.map": "/vigneshcse/static/css/main.219a4861.css.map",
+    "main.257c5323.js.map": "/vigneshcse/static/js/main.257c5323.js.map",
+    "453.56b1caae.chunk.js.map": "/vigneshcse/static/js/453.56b1caae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.219a4861.css",
+    "static/js/main.257c5323.js"
+  ]
+}
